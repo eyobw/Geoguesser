@@ -7,4 +7,8 @@ Members: Silas Macharia
 ============	
 Game
 
+
+our project
+hello
+
 My changes :)
