@@ -2,13 +2,13 @@
 
                                                   -team work for media product school project
 
-| Members               | Project       | Responsibilities  |
-| ----------------------|:-------------:| -----------------:|
-| Saif Islam            | UI and Mockup | **                |
-| Eyob Woldegiorgis     | Programmer    | **                |
-| Silas Macharia        | Programmer    | **                |
-| Sem Gebresilassie     | Programmer    | **                |
----
+| Members               | Project       | Additional responsibilities  |
+| ----------------------|:-------------:| ----------------------------:|
+| Saif Islam            | UI and Mockup | **            	       |
+| Eyob Woldegiorgis     | Programmer    | **            	       |
+| Silas Macharia        | Programmer    | **                           |
+| Sem Gebresilassie     | Programmer    | trello and mock up           |
+
 	
 >####About the Project
 ---
