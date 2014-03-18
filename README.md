@@ -1,14 +1,13 @@
-Geoguesser
-==========
-Members: Silas Macharia
-      :  Sem Kidane
-      : Eyob Woldegiorgis
+>###Geoguesser
 
-============	
-Game
+| Members               | Project       | Responsibilities  |
+| ----------------------|:-------------:| -----------------:|
+| Saif Islam            | UI and Mockup | *                 |
+| Eyob Woldegiorgis     | Programmer    | **                |
+| Silas Macharia        | Programmer    | **                |
+| Sem Gebresilassie     | Programmer    | **                |
+---
+	
+>####About the Project
 
 
-our project
-hello
-
-My changes :)
