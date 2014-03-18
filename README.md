@@ -1,5 +1,7 @@
 >###Geoguesser
 
+                                                  -team work for media product school project
+
 | Members               | Project       | Responsibilities  |
 | ----------------------|:-------------:| -----------------:|
 | Saif Islam            | UI and Mockup | *                 |
