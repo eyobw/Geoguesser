@@ -7,7 +7,7 @@
 | Saif Islam            | UI and Mockup | **            	       |
 | Eyob Woldegiorgis     | Programmer    | **            	       |
 | Silas Macharia        | Programmer    | **                           |
-| Sem Gebresilassie     | Programmer    | trello and mock up           |
+| Sem Gebresilassie     | Programmer    | trello           |
 
 	
 >####About the Project
