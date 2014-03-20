@@ -1,10 +1,9 @@
 
 
-
 >##Geoguesser
 
                                              
-                                                                           -team work for media product school project
+                                                                           -team work for MEDIA PRODUCT PROJECT
 
 | Members               | Project       | Additional responsibilities  |
 | ----------------------|:-------------:| ----------------------------:|
