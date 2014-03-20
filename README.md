@@ -1,3 +1,7 @@
+
+
+
+
 >##Geoguesser
 
                                                   -team work for media product school project
@@ -11,7 +15,7 @@
 
 	
 >####About the Project
----
+
 
 <p>This game is being developed following the proposal given by Olli Alm. According to our first discussion, Olli has marked his expectations and what he wants to see during the final delivery. His expectations and every method we are planning to use in order to accomplish them are also discussed in this project plan.
 
