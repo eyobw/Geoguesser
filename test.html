@@ -26,12 +26,12 @@ $(function(){
         console.log(data);
         var geoData = "";
         //loop through the results with the following function
-       geoData = data.photos[1].latitude;
-      /* $.each(data.photos.photo, function(i,item){
+       // geoData = data.photos[1].latitude;
+       $.each(data.photos.photo, function(i,item){
             geoData +='<div>latitude:' + item.latitude + ' ';
             geoData += 'longitude' + item.longitude;
 			geoData += 'whatever' + item.title + '</div>';
-        });*/
+        });
         
         $('#results').append(geoData);
 
